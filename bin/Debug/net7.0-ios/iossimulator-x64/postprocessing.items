@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ScrollViewSample.app/ScrollViewSample">
+      <BCSymbolMapName>ScrollViewSample.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ScrollViewSample.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\anne\Library\Caches\Xamarin\mtbs\builds\ScrollViewSample\b33864aae6d48dae578f752bd55a013d10c80c568f2a92e3664842285d41109a\obj\Debug\net7.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>ScrollViewSample.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\aaoki\Source\Repos\ScrollViewSampleGitHub</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
